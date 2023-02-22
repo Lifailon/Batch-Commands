@@ -1,0 +1,1 @@
+Copy /y ".\ps1-to-exe-Startup.bat" "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"

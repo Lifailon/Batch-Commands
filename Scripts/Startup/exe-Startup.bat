@@ -1,0 +1,1 @@
+@"%USERPROFILE%\Documents\DNS-Change-Tray-1.3.exe" & exit

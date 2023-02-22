@@ -1,0 +1,1 @@
+powershell -NoProfile -NoLogo -NonInteractive -ExecutionPolicy Unrestricted -WindowStyle Hidden -file "%USERPROFILE%\Documents\DNS-Change-Tray-1.3.ps1"
